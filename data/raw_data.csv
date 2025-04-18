@@ -1,0 +1,11 @@
+id,date,age,gender,purchase_amount,category
+1,2024-01-01,25,M,15000,Electronics
+2,2024-01-02,32,F,8000,Clothing
+3,2024-01-03,45,M,25000,Electronics
+4,2024-01-04,28,F,12000,Home
+5,2024-01-05,35,M,18000,Electronics
+6,2024-01-06,42,F,9500,Clothing
+7,2024-01-07,29,M,22000,Electronics
+8,2024-01-08,31,F,7500,Home
+9,2024-01-09,38,M,16000,Clothing
+10,2024-01-10,27,F,14000,Electronics 
